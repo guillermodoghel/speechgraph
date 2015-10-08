@@ -4,7 +4,6 @@ from collections import Counter
 import re
 import numpy as np
 import networkx as nx
-import matplotlib.pyplot as plt
 import nltk.stem 
 
 class _graphStatistics():
