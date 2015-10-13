@@ -14,7 +14,7 @@ class _graphStatistics():
 	def statistics(self):
 		res ={}
 		graph = self.graph
-		res['number_of_edges'] = graph.number_of_nodes()
+		res['number_of_nodes'] = graph.number_of_nodes()
 		res['number_of_edges'] = graph.number_of_edges()
 		res['PE'] =  (np.array(list(Counter(graph.edges()).itervalues()))>1).sum()
 		res['LCC'] =  nx.algorithms.components.number_weakly_connected_components(graph)
