@@ -75,7 +75,7 @@ class posGraph():
 		tags= []
 		for s in sentences:
 			cleaned_text= re.sub("[^\w ]+"," ",s.lower().strip())
-			tags+=list(zip(*nltk.pos_tag(word_tokenizer(s)))[1])
+			tags+=list(zip(*nltk.pos_tag(word_tokenizer(cleaned_text)))[1])
 		gr = nx.MultiDiGraph()
 		gr.add_edges_from( zip(tags[:-1], tags[1:]))
 		return gr
