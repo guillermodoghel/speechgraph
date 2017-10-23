@@ -52,8 +52,7 @@ after word stemming. With this transformation two different words may have the s
 tags (category of words or lexical items).
 
 
-<img src="./media/method.png" width=800px/>
-
+<img src="https://raw.githubusercontent.com/facuzeta/speechgraph/master/img/method.png" width=500px/>
 
 <h2> Citation </h2>
-Carrillo F, Mota N, Copelli M, Ribeiro S, Sigman M, Cecchi G, Slezak DF. Automated Speech Analysis for Psychosis Evaluation. InInternational Workshop on Machine Learning and Interpretation in Neuroimaging 2014 Dec 13 (pp. 31-39). Springer International Publishing.
+Carrillo F, Mota N, Copelli M, Ribeiro S, Sigman M, Cecchi G, Slezak DF. Automated Speech Analysis for Psychosis Evaluation. In International Workshop on Machine Learning and Interpretation in Neuroimaging 2014 Dec 13 (pp. 31-39). Springer International Publishing.
