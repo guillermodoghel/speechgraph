@@ -52,4 +52,4 @@ after word stemming. With this transformation two different words may have the s
 tags (category of words or lexical items).
 
 
-<img src="./media/method.png" width=800px/>
+<img src="https://raw.githubusercontent.com/facuzeta/speechgraph/master/img/method.png" width=500px/>
