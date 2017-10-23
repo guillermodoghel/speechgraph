@@ -1,7 +1,7 @@
 <h2>Speech Graphs</h2>
 
  
-Speehgraph is a Python module to perform speech graphs analysis used in *Automated speech analysis for psychosis evaluation* (in press)
+Speehgraph is a Python module to perform speech graphs analysis used in *Automated speech analysis for psychosis evaluation* 
 
 
 <h2> Install </h2>
@@ -53,3 +53,7 @@ tags (category of words or lexical items).
 
 
 <img src="./media/method.png" width=800px/>
+
+
+<h2> Citation </h2>
+Carrillo F, Mota N, Copelli M, Ribeiro S, Sigman M, Cecchi G, Slezak DF. Automated Speech Analysis for Psychosis Evaluation. InInternational Workshop on Machine Learning and Interpretation in Neuroimaging 2014 Dec 13 (pp. 31-39). Springer International Publishing.
