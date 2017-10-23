@@ -52,4 +52,4 @@ after word stemming. With this transformation two different words may have the s
 tags (category of words or lexical items).
 
 
-<img src="http://speech-tools.liaa.dc.uba.ar/coherence/media/graph_transformation.png" width=800px/>
+<img src="./media/method.png" width=800px/>
